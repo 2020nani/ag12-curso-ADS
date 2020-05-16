@@ -1,0 +1,19 @@
+body{
+width: 100%;
+background-color: rgb(122, 76, 76);
+text-align: center;
+}
+
+
+#container{
+  width: 98%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.divisao{
+  width: 23%;
+  margin-left: 1%;
+  text-align: center;
+}
